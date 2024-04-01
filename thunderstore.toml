@@ -5,9 +5,9 @@ schemaVersion = "0.0.1"
 repository = "https://thunderstore.io"
 
 [package]
-namespace = "YourThunderstoreTeam"
-name = "Template"
-description = "A template for Lethal Company plugins."
+namespace = "nagbag"
+name = "Lucifer"
+description = "A new monster that will kill you."
 websiteUrl = "https://github.com/nagbag/lucifer"
 containsNsfwContent = false
 
