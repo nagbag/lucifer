@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "YourThunderstoreTeam"
 name = "Template"
 description = "A template for Lethal Company plugins."
-websiteUrl = "https://github.com/Distractic/LethalCompanyTemplate"
+websiteUrl = "https://github.com/nagbag/lucifer"
 containsNsfwContent = false
 
 [package.dependencies]
