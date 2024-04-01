@@ -1,4 +1,4 @@
-# LethalCompanyTemplate
+# LethalCompanyLucifer
 
 [![](https://img.shields.io/badge/YourThunderstoreTeam-Template-blue?logo=thunderstore)](https://thunderstore.io/c/lethal-company/p/YourThunderstoreTeam/Template/)
 
